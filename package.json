@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "django": "^99.99.99",
+    "jwt-decode": "^4.0.0",
     "react-pro-sidebar": "^1.0.0-alpha.7"
   }
 }
